@@ -1,7 +1,7 @@
-# NetBeans (Ant)
-**/nbproject/private/
-**/build/
-**/dist/
-
-# (si algún día usas Maven)
-**/target/
+# NetBeans / Ant (archivos generados)
+build/
+dist/
+nbproject/private/
+nbproject/genfiles.properties
+nbproject/build-impl.xml
+*.class
