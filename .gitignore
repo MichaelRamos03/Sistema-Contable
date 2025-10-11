@@ -5,3 +5,16 @@
 
 # (si algún día usas Maven)
 **/target/
+
+# NetBeans / Ant (archivos generados)
+build/
+dist/
+nbproject/private/
+nbproject/genfiles.properties
+*.class
+
+# NetBeans / Ant (dentro de Proyecto_SistemaContable)
+/Proyecto_SistemaContable/build/
+/Proyecto_SistemaContable/dist/
+/Proyecto_SistemaContable/nbproject/private/**
+/Proyecto_SistemaContable/nbproject/genfiles.properties
