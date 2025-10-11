@@ -1,3 +1,11 @@
+# NetBeans (Ant)
+**/nbproject/private/
+**/build/
+**/dist/
+
+# (si algún día usas Maven)
+**/target/
+
 # NetBeans / Ant (archivos generados)
 build/
 dist/
@@ -5,3 +13,12 @@ nbproject/private/
 nbproject/genfiles.properties
 nbproject/build-impl.xml
 *.class
+
+# NetBeans / Ant (dentro de Proyecto_SistemaContable)
+# (ancladas a la raíz del repo con / )
+/Proyecto_SistemaContable/build/
+/Proyecto_SistemaContable/dist/
+/Proyecto_SistemaContable/nbproject/private/**
+/Proyecto_SistemaContable/nbproject/build-impl.xml
+/Proyecto_SistemaContable/nbproject/genfiles.properties
+
